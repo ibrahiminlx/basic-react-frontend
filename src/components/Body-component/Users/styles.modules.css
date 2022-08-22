@@ -1,0 +1,11 @@
+.card-img-top{
+    border-radius: 50%;
+    border: 0;
+    height: 70%;
+    width: 70%;
+
+}
+.card-users{
+    border: 0;
+    text-align: center;
+}
